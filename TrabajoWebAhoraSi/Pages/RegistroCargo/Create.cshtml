@@ -1,0 +1,43 @@
+﻿@page
+@model TrabajoWebAhoraSi.Pages.RegistroCargo.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Cargo</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Cargo.Nombre_de_Cargo" class="control-label"></label>
+                <input asp-for="Cargo.Nombre_de_Cargo" class="form-control" />
+                <span asp-validation-for="Cargo.Nombre_de_Cargo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cargo.Tipo_de_Cargo" class="control-label"></label>
+                <input asp-for="Cargo.Tipo_de_Cargo" class="form-control" />
+                <span asp-validation-for="Cargo.Tipo_de_Cargo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cargo.SueldoID" class="control-label"></label>
+                <select asp-for="Cargo.SueldoID" class ="form-control" asp-items="ViewBag.SueldoID"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

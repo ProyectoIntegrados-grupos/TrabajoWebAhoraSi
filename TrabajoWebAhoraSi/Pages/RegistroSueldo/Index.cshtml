@@ -1,0 +1,54 @@
+﻿@page
+@model TrabajoWebAhoraSi.Pages.RegistroSueldo.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Sueldo[0].DescuentoIV)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sueldo[0].Bono)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sueldo[0].DescuentoSeguro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sueldo[0].Empleado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Sueldo) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DescuentoIV)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bono)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DescuentoSeguro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Empleado.Apellido)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.SueldoID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.SueldoID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.SueldoID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

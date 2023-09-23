@@ -1,0 +1,48 @@
+﻿@page
+@model TrabajoWebAhoraSi.Pages.RegistroCargo.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Cargo[0].Nombre_de_Cargo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cargo[0].Tipo_de_Cargo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cargo[0].Sueldo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Cargo) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre_de_Cargo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tipo_de_Cargo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sueldo.SueldoID)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.CargoId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.CargoId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.CargoId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

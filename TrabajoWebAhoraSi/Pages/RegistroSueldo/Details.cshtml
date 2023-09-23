@@ -1,0 +1,43 @@
+﻿@page
+@model TrabajoWebAhoraSi.Pages.RegistroSueldo.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Sueldo</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Sueldo.DescuentoIV)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Sueldo.DescuentoIV)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Sueldo.Bono)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Sueldo.Bono)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Sueldo.DescuentoSeguro)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Sueldo.DescuentoSeguro)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Sueldo.Empleado)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Sueldo.Empleado.Apellido)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Sueldo?.SueldoID">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>
