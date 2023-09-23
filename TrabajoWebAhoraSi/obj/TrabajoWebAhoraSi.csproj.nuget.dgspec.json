@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\pc\\Downloads\\tareaWebAhoraSi\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi.csproj": {}
   },
   "projects": {
@@ -13,19 +12,6 @@
         "projectPath": "C:\\Users\\pc\\Downloads\\tareaWebAhoraSi\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\pc\\Downloads\\tareaWebAhoraSi\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi\\obj\\",
-=======
-    "F:\\Repositorio\\SiSePuede\\21\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi.csproj": {}
-  },
-  "projects": {
-    "F:\\Repositorio\\SiSePuede\\21\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "F:\\Repositorio\\SiSePuede\\21\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi.csproj",
-        "projectName": "TrabajoWebAhoraSi",
-        "projectPath": "F:\\Repositorio\\SiSePuede\\21\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi.csproj",
-        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
-        "outputPath": "F:\\Repositorio\\SiSePuede\\21\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi\\obj\\",
->>>>>>> 157ce21d8a553e23cb5453687196482778ec5d59
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
