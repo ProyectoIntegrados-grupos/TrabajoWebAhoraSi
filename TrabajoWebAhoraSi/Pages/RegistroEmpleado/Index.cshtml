@@ -5,8 +5,22 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<div class="text-center">
+    <h1>Registro de Empleado</h1>
+</div>
 
+<<<<<<< HEAD
+<div>
+    
+    <p>
+        <a asp-page="Create">
+            <img src="~/img/xd.png.png" alt="Texto Alternativo de la Imagen" width="100" height="100">
+        </a>
+    </p>
+
+</div>
+<table>
+=======
 <p>
     <a asp-page="Create">Crear Nuevo</a>
 </p>
@@ -22,6 +36,7 @@
 </form>
 
 <table class="table">
+>>>>>>> 157ce21d8a553e23cb5453687196482778ec5d59
     <thead>
         <tr>
             <th>
@@ -43,29 +58,30 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model.Empleado) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nombre)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Apellido)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.FechaDeNacimiento)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Direccion)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.FechaDeContratacion)
-            </td>
-            <td>
-                <a asp-page="./Edit" asp-route-id="@item.EmpleadoId">Edit</a> |
-                <a asp-page="./Details" asp-route-id="@item.EmpleadoId">Details</a> |
-                <a asp-page="./Delete" asp-route-id="@item.EmpleadoId">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model.Empleado)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Apellido)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaDeNacimiento)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Direccion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaDeContratacion)
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.EmpleadoId">Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@item.EmpleadoId">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.EmpleadoId">Delete</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

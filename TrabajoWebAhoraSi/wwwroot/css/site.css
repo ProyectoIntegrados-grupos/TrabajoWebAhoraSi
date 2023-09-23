@@ -1,18 +1,93 @@
+
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
 }
+
+
+
+body {
+    background-size: cover; /* Otra opción: "contain" o "auto" según tus necesidades */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Esto fija la imagen de fondo al viewport */
+    margin-bottom: 60px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/img/fondo.jpg');
+}
+
+.contenedor {
+    text-align: center; /* Centra horizontalmente el contenido del contenedor */
+}
+
+h1 {
+    display: block;
+    font-size: 4em; /* Establece el tamaño de fuente en 4 veces el tamaño predeterminado */
+    margin-block-start: 0.67em; /* Establece el margen superior del bloque */
+    margin-block-end: 0.67em; /* Establece el margen inferior del bloque */
+    margin-inline-start: 0px; /* Establece el margen izquierdo en línea */
+    margin-inline-end: 0px; /* Establece el margen derecho en línea */
+    font-weight: bold; /* Define el peso de la fuente como negrita */
+    color: #fff; /* Establece el color del texto en blanco (#fff) */
+    font-weight: initial; /* Restablece el peso de la fuente a su valor inicial  */
+}
+
+h2 {
+    display: block;
+    font-size: 0.5em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: #fff;
+    font-weight: initial;
+    text-align: justify; /* Justificar el texto */
+}
+/* Estilo específico para el segundo título */
+.text-center1 h1.display-4:nth-child(2) {
+    font-size: 36px;
+    font-family: 'Shadows Into Light', cursive; /* Tipo de letra animado y alegre */
+    color: #FF5733; /* Color llamativo */
+}
+
+h1.display-4 {
+    font-size: 36px; /* Tamaño de fuente más grande para el primer título */
+    font-family: 'Shadows Into Light', cursive; /* Tipo de letra animado y alegre */
+    color: #FF5733; /* Color llamativo */
+}
+
+
+.col {
+    text-align: center;
+    padding: 20px; /* Espaciado interior */
+    border: 2px solid #007BFF; /* Color del borde */
+    border-radius: 10px; /* Bordes redondeados */
+}
+
+h3 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: #fff;
+    font-weight: initial;
+    text-align: justify; /* Justificar el texto */
+}
+
+/* Estilos para la barra de navegación */
