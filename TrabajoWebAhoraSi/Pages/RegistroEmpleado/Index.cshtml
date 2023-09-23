@@ -8,8 +8,19 @@
 <h1>Index</h1>
 
 <p>
-    <a asp-page="Create">Create New</a>
+    <a asp-page="Create">Crear Nuevo</a>
 </p>
+
+<form>
+    <p>
+        <select asp-for="ApellidoEmpleado" asp-items="Model.Empleado">
+            <option value="">All</option>
+        </select>
+      Apellido del Empleado: <input type="text" asp-for="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
 <table class="table">
     <thead>
         <tr>

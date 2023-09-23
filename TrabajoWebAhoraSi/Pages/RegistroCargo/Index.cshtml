@@ -9,7 +9,17 @@
 
 <p>
     <a asp-page="Create">Create New</a>
-</p>
+</p
+
+<form>
+    <p>
+        <select asp-for="NombreCargo" asp-items="Model.Cargo">
+            <option value="">All</option>
+        </select>
+        Nombre del Cargo: <input type="text" asp-for="SearchString"/>
+        <input type="submit" value="Filter" />
+    </p>
+</form>
 <table class="table">
     <thead>
         <tr>

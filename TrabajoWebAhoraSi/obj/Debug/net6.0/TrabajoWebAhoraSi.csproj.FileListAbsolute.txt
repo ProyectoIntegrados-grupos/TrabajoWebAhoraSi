@@ -242,3 +242,14 @@ F:\Repositorio\SiSePuede\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\re
 F:\Repositorio\SiSePuede\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.pdb
 F:\Repositorio\SiSePuede\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.genruntimeconfig.cache
 F:\Repositorio\SiSePuede\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\ref\TrabajoWebAhoraSi.dll
+D:\Ahora sI\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.csproj.AssemblyReference.cache
+D:\Ahora sI\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahora sI\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.AssemblyInfoInputs.cache
+D:\Ahora sI\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.AssemblyInfo.cs
+D:\Ahora sI\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.csproj.CoreCompileInputs.cache
+D:\Ahora sI\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.MvcApplicationPartsAssemblyInfo.cache
+D:\Ahora sI\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.RazorAssemblyInfo.cache
+D:\Ahora sI\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.RazorAssemblyInfo.cs
+D:\Ahora sI\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.dll
+D:\Ahora sI\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\refint\TrabajoWebAhoraSi.dll
+D:\Ahora sI\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.pdb
