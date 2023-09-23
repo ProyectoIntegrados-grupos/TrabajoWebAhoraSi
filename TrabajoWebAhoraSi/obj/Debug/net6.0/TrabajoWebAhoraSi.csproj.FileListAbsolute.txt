@@ -749,3 +749,14 @@ F:\Repositorio\SiSePuede\21\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0
 F:\Repositorio\SiSePuede\21\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.genruntimeconfig.cache
 F:\Repositorio\SiSePuede\21\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\ref\TrabajoWebAhoraSi.dll
 >>>>>>> 157ce21d8a553e23cb5453687196482778ec5d59
+F:\Repositorio\SiSePuede\20\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.csproj.AssemblyReference.cache
+F:\Repositorio\SiSePuede\20\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositorio\SiSePuede\20\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.AssemblyInfoInputs.cache
+F:\Repositorio\SiSePuede\20\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.AssemblyInfo.cs
+F:\Repositorio\SiSePuede\20\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.csproj.CoreCompileInputs.cache
+F:\Repositorio\SiSePuede\20\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.MvcApplicationPartsAssemblyInfo.cache
+F:\Repositorio\SiSePuede\20\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.RazorAssemblyInfo.cache
+F:\Repositorio\SiSePuede\20\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.RazorAssemblyInfo.cs
+F:\Repositorio\SiSePuede\20\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.dll
+F:\Repositorio\SiSePuede\20\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\refint\TrabajoWebAhoraSi.dll
+F:\Repositorio\SiSePuede\20\TrabajoWebAhoraSi\TrabajoWebAhoraSi\obj\Debug\net6.0\TrabajoWebAhoraSi.pdb
