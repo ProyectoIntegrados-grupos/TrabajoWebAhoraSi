@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "DMEC9LdD2S6AvzyT6fo09a7rkfSti0iq20QSJ/w74+g+5uuGLbAkte5rJ+338Rf25PD0vaTqe3FLd775Jh4uyg==",
   "success": true,
   "projectFilePath": "C:\\Users\\pc\\Downloads\\tareaWebAhoraSi\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi.csproj",
+=======
+  "dgSpecHash": "WOnaQt5RB63lkOqq1mOnBwmHHyETQcVGhtRJZZAaVllnKKR7x136vHvWQJ/JoxgWnLqWZgluhvRvkaB/w7rgmA==",
+  "success": true,
+  "projectFilePath": "F:\\Repositorio\\SiSePuede\\21\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi\\TrabajoWebAhoraSi.csproj",
+>>>>>>> 157ce21d8a553e23cb5453687196482778ec5d59
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

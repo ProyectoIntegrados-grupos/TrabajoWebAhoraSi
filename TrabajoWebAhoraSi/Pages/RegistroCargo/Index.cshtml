@@ -9,6 +9,7 @@
     <h1>Registro de Empleado</h1>
 </div>
 
+<<<<<<< HEAD
 <div>
 
     <p>
@@ -19,6 +20,22 @@
 
 </div>
 <table class="table table-bordered table-striped">
+=======
+<p>
+    <a asp-page="Create">Create New</a>
+</p
+
+<form>
+    <p>
+        <select asp-for="NombreCargo" asp-items="Model.Nombre">
+            <option value="">All</option>
+        </select>
+        Nombre del Cargo: <input type="text" asp-for="SearchString"/>
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+<table class="table">
+>>>>>>> 157ce21d8a553e23cb5453687196482778ec5d59
     <thead>
         <tr>
             <th>
