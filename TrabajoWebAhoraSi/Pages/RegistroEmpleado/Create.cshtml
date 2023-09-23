@@ -6,35 +6,34 @@
 }
 
 <h1>Create</h1>
-
 <h4>Empleado</h4>
 <hr />
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 custom-form">
         <form method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Empleado.Nombre" class="control-label"></label>
+                <label asp-for="Empleado.Nombre" class="control-label">Nombre</label>
                 <input asp-for="Empleado.Nombre" class="form-control" />
                 <span asp-validation-for="Empleado.Nombre" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Empleado.Apellido" class="control-label"></label>
+                <label asp-for="Empleado.Apellido" class="control-label">Apellido</label>
                 <input asp-for="Empleado.Apellido" class="form-control" />
                 <span asp-validation-for="Empleado.Apellido" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Empleado.FechaDeNacimiento" class="control-label"></label>
+                <label asp-for="Empleado.FechaDeNacimiento" class="control-label">Fecha de Nacimiento</label>
                 <input asp-for="Empleado.FechaDeNacimiento" class="form-control" />
                 <span asp-validation-for="Empleado.FechaDeNacimiento" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Empleado.Direccion" class="control-label"></label>
+                <label asp-for="Empleado.Direccion" class="control-label">Dirección</label>
                 <input asp-for="Empleado.Direccion" class="form-control" />
                 <span asp-validation-for="Empleado.Direccion" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Empleado.FechaDeContratacion" class="control-label"></label>
+                <label asp-for="Empleado.FechaDeContratacion" class="control-label">Fecha de Contratación</label>
                 <input asp-for="Empleado.FechaDeContratacion" class="form-control" />
                 <span asp-validation-for="Empleado.FechaDeContratacion" class="text-danger"></span>
             </div>
@@ -46,7 +45,7 @@
 </div>
 
 <div>
-    <a asp-page="Index">Back to List</a>
+    <a asp-page="Index">Volver a las listas</a>
 </div>
 
 @section Scripts {

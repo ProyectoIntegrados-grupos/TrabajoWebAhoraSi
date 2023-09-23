@@ -5,100 +5,101 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TrabajoWebAhoraSi
 build_property.RootNamespace = TrabajoWebAhoraSi
-build_property.ProjectDir = F:\Repositorio\SiSePuede\TrabajoWebAhoraSi\TrabajoWebAhoraSi\
+build_property.ProjectDir = C:\Users\pc\Downloads\tareaWebAhoraSi\TrabajoWebAhoraSi\TrabajoWebAhoraSi\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\Repositorio\SiSePuede\TrabajoWebAhoraSi\TrabajoWebAhoraSi
+build_property.MSBuildProjectDirectory = C:\Users\pc\Downloads\tareaWebAhoraSi\TrabajoWebAhoraSi\TrabajoWebAhoraSi
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/Error.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/Index.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/Privacy.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroCargo/Create.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroCargo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9DYXJnb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroCargo/Delete.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroCargo/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9DYXJnb1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroCargo/Details.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroCargo/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9DYXJnb1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroCargo/Edit.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroCargo/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9DYXJnb1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroCargo/Index.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroCargo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9DYXJnb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroEmpleado/Create.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroEmpleado/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9FbXBsZWFkb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroEmpleado/Delete.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroEmpleado/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9FbXBsZWFkb1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroEmpleado/Details.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroEmpleado/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9FbXBsZWFkb1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroEmpleado/Edit.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroEmpleado/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9FbXBsZWFkb1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroEmpleado/Index.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroEmpleado/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9FbXBsZWFkb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroSueldo/Create.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroSueldo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9TdWVsZG9cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroSueldo/Delete.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroSueldo/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9TdWVsZG9cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroSueldo/Details.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroSueldo/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9TdWVsZG9cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroSueldo/Edit.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroSueldo/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9TdWVsZG9cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroSueldo/Index.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/RegistroSueldo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9TdWVsZG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/_ViewImports.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/_ViewStart.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Repositorio/SiSePuede/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/Shared/_Layout.cshtml]
+[C:/Users/pc/Downloads/tareaWebAhoraSi/TrabajoWebAhoraSi/TrabajoWebAhoraSi/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-t23qjumttw
